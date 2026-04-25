@@ -7,29 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-# Your Name
+# Zeyu Zhao
 
-I am a **Ph.D. student** in **Schoool of Computer Science**, **Shanghai Jiao Tong Uninversity**.
+I am a **Ph.D. student** in the **School of Computer Science**, **Shanghai Jiao Tong University**.
 
-My research lies at the intersection of **Artificial Intelligence**, **AI Security**, and **Adversarial Example**, with a particular focus on:
+My research lies at the intersection of **Artificial Intelligence**, **AI Security**, and **Adversarial Machine Learning**, with a particular focus on:
 
-- Video Adversarial Example
-- Reversarial Adverasarial Example
+- Video Adversarial Examples
+- Reversible Adversarial Examples
 - Privacy Protection
 - Trustworthy and Secure AI Systems
 
-I am currently working on research problems related to **AI security evaluation**, **LLM robustness** and **Diffusion Model Adversarial Security**.
+I am currently working on research problems related to **AI security evaluation**, **LLM robustness**, and **adversarial security of diffusion models**.
 
 ## Education
 
-- **Ph.D. in Cyberspace Security**, *Shanghai Jiao Tong University*, [2022-present]
+- **Ph.D. in Cyberspace Security**, *Shanghai Jiao Tong University*, 2022–Present  
   Advisor: Prof. Xinghao Jiang
-- **M.S. in Cyberspace Security**, *Shanghai Jiao Tong University*, [2020-2022]
-- **B.S. in Information Security**, *Shanghai Jiao Tong University*, [2016-2020]
+
+- **M.S. in Cyberspace Security**, *Shanghai Jiao Tong University*, 2020–2022
+
+- **B.S. in Information Security**, *Shanghai Jiao Tong University*, 2016–2020
 
 ---
-
-## Selected Publications
 
 ## Selected Publications
 
@@ -46,7 +46,7 @@ I am currently working on research problems related to **AI security evaluation*
    *IEEE Transactions on Dependable and Secure Computing (TDSC)*, 2025.
 
 4. **Zeyu Zhao**, Ke Xu, Laijin Meng, Tanfeng Sun, Xinghao Jiang.  
-   **INN-RAE: Reversible Adversarial Examples based on Invertible Neural Networks for Facial Protection**.  
+   **INN-RAE: Reversible Adversarial Examples Based on Invertible Neural Networks for Facial Protection**.  
    *Expert Systems with Applications (ESWA)*, 2025.
 
 5. **Zeyu Zhao**, Yueneng Wang, Ke Xu, Tanfeng Sun, Xinghao Jiang.  
@@ -68,10 +68,11 @@ I am currently working on research problems related to **AI security evaluation*
 9. 蒋兴浩, **赵泽宇**, 许可.  
    **基于视觉的飞行器智能目标检测对抗攻击技术**.  
    *空天防御*, vol. 4, no. 1, pp. 8–13, 2021.
+
 ---
 
 ## Contact
 
 - Email: 329161318zzy@sjtu.edu.cn
-- Google Scholar: [Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=0K-JVoQAAAAJ&view_op=list_works&sortby=title)
-- ORCID: [ORCID Profile](https://orcid.org/0000-0002-3008-0457)
+- Google Scholar: [Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=0K-JVoQAAAAJ)
+- ORCID: [0000-0002-3008-0457](https://orcid.org/0000-0002-3008-0457)
