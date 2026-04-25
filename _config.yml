@@ -5,9 +5,9 @@ title                    : "Zeyu Zhao"
 title_separator          : "-"
 name                     : &name "Zeyu Zhao"
 description              : &description "Academic homepage of Zeyu Zhao"
-url                      : "https://hertensu.github.io/SJTU_ZeyuZhao.github.io/"
+url                      : "https://HerTenSu.github.io/"
 baseurl                  : ""
-repository               : "https://github.com/HerTenSu/SJTU_ZeyuZhao.github.io"
+repository               : "https://github.com/HerTenSu/HerTenSu.github.io"
 
 # Site Author
 author:
