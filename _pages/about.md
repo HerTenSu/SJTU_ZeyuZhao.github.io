@@ -71,6 +71,10 @@ I am currently working on research problems related to **AI security evaluation*
    **基于视觉的飞行器智能目标检测对抗攻击技术**.  
    *空天防御*, vol. 4, no. 1, pp. 8–13, 2021.
 
+1. Hanqi Zhang, Ke Xu, Xinghao Jiang, Tanfeng Sun, **Zeyu Zhao**.  
+   **When does Adversarial Training Hurt Adversarial Robustness in Phase Translation of Training Data?**  
+   *2026 International Conference on Intelligent Computing (ICIC 2026)*, Oral Presentation, to appear in *Lecture Notes in Computer Science (LNCS)*, Springer Nature, 2026.
+
 ---
 
 ## Contact
